@@ -74,10 +74,6 @@ let textoDeUsuario = document.getElementById('textoUsuario').value;
     elementhtml.innerHTML = desencriptado;
     console.log (textoDeUsuario);
 
-    alert("¡Por seguridad el mensaje ingresado sera borrado!");
-
-    textoUsuario.value="";
-
         }
     }
     
